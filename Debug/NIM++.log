@@ -1,2 +1,4 @@
 ﻿  NIM++.cpp
+j:\soft (with git)\nim++\nim++.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+j:\soft (with git)\nim++\nim++.cpp(38): warning C4551: function call missing argument list
   NIM++.vcxproj -> J:\Soft (with git)\NIM++\Debug\NIM++.exe
