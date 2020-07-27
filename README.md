@@ -1,2 +1,2 @@
-# NIM Plus
- A slightly uograded version of NIM, used for my education
+# NIM Plus Plus
+ A slightly upgraded version of NIM, used for my education
