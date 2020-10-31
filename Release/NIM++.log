@@ -1,7 +1,0 @@
-﻿  NIM++.cpp
-j:\soft (with git)\nim++\nim++.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-j:\soft (with git)\nim++\nim++.cpp(38): warning C4551: function call missing argument list
-  Generating code
-  All 16 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  NIM++.vcxproj -> J:\Soft (with git)\NIM++\Release\NIM++.exe
