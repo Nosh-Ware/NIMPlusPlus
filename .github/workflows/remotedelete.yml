@@ -21,7 +21,7 @@ jobs:
         shell: bash
         
       - name: Remove File
-        run: git rm ./Debug/ ; git rm ./Release/
+        run: git rm -r ./Debug/ ; git rm -r ./Release/
         shell: bash
         
       - name: Commit and push
